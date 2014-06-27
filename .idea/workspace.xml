@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b561b15-acf3-4bac-ad73-24c2c486d002" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversineServiceProvider.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php" afterPath="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fk-php-haversine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,7 +38,7 @@
       <file leaf-file-name="FkPhpHaversine.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="39" selection-start="239" selection-end="239" vertical-scroll-proportion="0.29336438" vertical-offset="0" max-vertical-offset="1568">
+            <state line="80" column="25" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.5436554" vertical-offset="1773" max-vertical-offset="2660">
               <folding>
                 <element signature="e#6#161#0" expanded="true" />
               </folding>
@@ -67,9 +64,9 @@
         <option value="$PROJECT_DIR$/tests/Douggrubba/FkPhpHaversine/Tests/FkPhpHaversineTest.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversineInterface.php" />
-        <option value="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php" />
         <option value="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversineServiceProvider.php" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php" />
       </list>
     </option>
   </component>
@@ -316,7 +313,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="39" selection-start="239" selection-end="239" vertical-scroll-proportion="0.29336438" vertical-offset="0" max-vertical-offset="1568">
+        <state line="80" column="25" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.5436554" vertical-offset="1773" max-vertical-offset="2660">
           <folding>
             <element signature="e#6#161#0" expanded="true" />
           </folding>

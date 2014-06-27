@@ -8,9 +8,14 @@
             email: "douglas.grubba@gmail.com"
         }
     ],
+    require: {
+        php": ">=5.4.0",
+        illuminate/database: "4.*",
+        illuminate/support: "4.*"
+    },
     require-dev: {
-        illuminate/support: "4.1.*",
-        mockery/mockery: "0.9.*@dev"
+        mockery/mockery: "0.9.*@dev",
+        phpunit/phpunit: "4.0.*",
     },
     autoload: {
         psr-4: {

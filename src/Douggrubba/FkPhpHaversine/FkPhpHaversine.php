@@ -7,6 +7,8 @@
  */
 namespace Douggrubba\FkPhpHaversine;
 
+use Illuminate\Database\Eloquent\Model;
+
 /**
  * FkPhpHaversine
  *

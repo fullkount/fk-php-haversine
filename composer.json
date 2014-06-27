@@ -1,0 +1,20 @@
+{
+    name: "douggrubba/fkphphaversine",
+    description: "Great circle calculations in model form.",
+    license: "MIT",
+    authors: [
+        {
+            name: "Doug Grubba",
+            email: "douglas.grubba@gmail.com"
+        }
+    ],
+    require-dev: {
+        illuminate/support: "4.1.*",
+        mockery/mockery: "0.9.*@dev"
+    },
+    autoload: {
+        psr-4: {
+            Douggrubba\FkPhpHaversine\: "src/Douggrubba/FkPhpHaversine"
+        }
+    }
+}

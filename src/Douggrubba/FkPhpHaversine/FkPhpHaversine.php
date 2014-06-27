@@ -14,7 +14,7 @@ use Illuminate\Database\Eloquent\Model;
  *
  * @author Doug Grubba <douglas.grubba@gmail.com>
  */
-class FkPhpHaversine implements FkPhpHaversineInterface
+class FkPhpHaversine extends Model implements FkPhpHaversineInterface
 {
 
     /**
@@ -78,7 +78,8 @@ class FkPhpHaversine implements FkPhpHaversineInterface
             $lat
         );
 
-        return DB::table($table_name)
+        return static::select($disctance_select)
+            ->select('*')
             ->having('distance', '<', $max_distance)
             ->take($max_locations)
             ->order_by('distance', 'ASC')

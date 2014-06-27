@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b561b15-acf3-4bac-ad73-24c2c486d002" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php" afterPath="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversineInterface.php" afterPath="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversineInterface.php" />
     </list>
     <ignored path="fk-php-haversine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +25,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="FkPhpHaversineInterface.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversineInterface.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="6" selection-start="48" selection-end="48" vertical-scroll-proportion="0.16055046" vertical-offset="0" max-vertical-offset="872">
-              <folding />
+            <state line="17" column="7" selection-start="323" selection-end="352" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784">
+              <folding>
+                <element signature="e#6#145#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FkPhpHaversine.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="22" selection-start="733" selection-end="733" vertical-scroll-proportion="0.6740396" vertical-offset="513" max-vertical-offset="1512">
+              <folding>
+                <element signature="e#6#161#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,11 +62,11 @@
       <list>
         <option value="$PROJECT_DIR$/phpunit.xml" />
         <option value="$PROJECT_DIR$/.travis.yml" />
-        <option value="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversineInterface.php" />
         <option value="$PROJECT_DIR$/tests/Douggrubba/FkPhpHaversine/Tests/FkPhpHaversineTest.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversineInterface.php" />
+        <option value="$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php" />
       </list>
     </option>
   </component>
@@ -103,6 +116,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="fk-php-haversine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fk-php-haversine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fk-php-haversine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Douggrubba" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FkPhpHaversine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -214,22 +249,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="336" selection-end="336" vertical-scroll-proportion="0.48165137" vertical-offset="0" max-vertical-offset="1064">
-          <folding>
-            <element signature="e#6#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversineInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="27" selection-end="27" vertical-scroll-proportion="0.06422018" vertical-offset="0" max-vertical-offset="872">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -251,6 +270,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="6" selection-start="48" selection-end="48" vertical-scroll-proportion="0.16055046" vertical-offset="0" max-vertical-offset="872">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversineInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="7" selection-start="323" selection-end="352" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="784">
+          <folding>
+            <element signature="e#6#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Douggrubba/FkPhpHaversine/FkPhpHaversine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="22" selection-start="733" selection-end="733" vertical-scroll-proportion="0.6740396" vertical-offset="513" max-vertical-offset="1512">
+          <folding>
+            <element signature="e#6#161#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

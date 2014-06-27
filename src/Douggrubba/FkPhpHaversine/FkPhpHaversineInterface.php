@@ -14,4 +14,10 @@ namespace Douggrubba\FkPhpHaversine;
  */
 interface FkPhpHaversineInterface
 {
+    /**
+     * Return the closest locations.
+     *
+     * @return array
+     */
+    public function closest($lat, $lng, $max_distance, $max_locations, $units, $fields);
 }

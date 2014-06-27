@@ -29,4 +29,20 @@ class FkPhpHaversine implements FkPhpHaversineInterface
     {
     }
 
+    /**
+     * Return the closest locations.
+     *
+     * @param  float    $lat
+     * @param  float    $lng
+     * @param  integer  $max_distance
+     * @param  integer  $max_locations
+     * @param  string   $units
+     * @param  array    $fields
+     * @return array
+     */
+    public function closest($lat, $lng, $max_distance = 25, $max_locations = 10, $units = 'miles', $fields = false)
+    {
+
+    }
+
 }
